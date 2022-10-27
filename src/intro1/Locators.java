@@ -31,8 +31,8 @@ public class Locators {
 	
 		
 		//Building css selector methods
-		// 1. tagname.classname
-		// 2. tagname#id
+		// 1. .classname
+		// 2. #id
 		// 3. tagname[attribute='value']
 		// 4. tagname[attribute='value']:nth-child(index number of attribute) - for multiple lines with same attribute.
 		

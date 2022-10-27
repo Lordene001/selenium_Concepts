@@ -10,7 +10,7 @@ import org.openqa.selenium.edge.EdgeDriver;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-public class TringParsingTask {
+public class StringParsingTask {
 
 	
 	@Test
